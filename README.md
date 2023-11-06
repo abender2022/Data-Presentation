@@ -18,3 +18,7 @@ With a commitment to innovation and customer safety, SafeGlow Solutions aims to 
 - "Annually, an estimated 23,600 fires in residences are caused by candles and result in 1,525 civilian injuries, 165 fatalities, and $390 million in direct property loss." (Topical Fire Research Series Vol. 6, No. 1: Candle Fires in Residential Structures)
 
 - Though candles cause only 3% of all house fires, that number should be down to zero. 
+
+### Data Deck Slides
+
+[Slides](https://docs.google.com/presentation/d/1CZP8NtDrugxVmTx-0QAKVzlozOlF40R57d0yPbNvsCk/edit?usp=sharing)
