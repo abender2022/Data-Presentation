@@ -35,7 +35,9 @@ These projections also align with broader trends such as the increase in interne
 
 ## Example of images our system is trained with
 
+<img src="candle1.webp" width="500" >
 
+<img src="candle2.jpeg" width="500" >
 
 ### Data Deck Slides
 
