@@ -1,7 +1,7 @@
 # SafeGlow Solutions
 
 
-<img src="safeglow3.png">
+<img src="safeglow3.png" width="500">
 
 
 
