@@ -22,3 +22,7 @@ With a commitment to innovation and customer safety, SafeGlow Solutions aims to 
 ### Data Deck Slides
 
 [Slides](https://docs.google.com/presentation/d/1CZP8NtDrugxVmTx-0QAKVzlozOlF40R57d0yPbNvsCk/edit?usp=sharing)
+
+### AlexNet
+
+[Alexnet](https://colab.research.google.com/drive/1k2DbZNns2Mcn0VL2yIxZh8zxRvDX_w6M?usp=sharing)
