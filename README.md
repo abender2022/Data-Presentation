@@ -29,7 +29,11 @@ These projections also align with broader trends such as the increase in interne
 
 - Though candles cause only 3% of all house fires, that number should be down to zero.
 
-- Can be dangerous when left unattended with animals or small children near or around a burning candle. Risk of being knocked over and causing harm and or damage. 
+- Can be dangerous when left unattended with animals or small children near or around a burning candle. Risk of being knocked over and causing harm and or damage.
+
+- Candles are a notable cause of house fires, although they account for a relatively small percentage of the total number of fires. During the period from 2015 to 2019, candles were responsible for 2% of reported home fires, 3% of home fire deaths, 6% of home fire injuries, and 4% of the direct property damage from home fires​1​. Each year, an estimated 8,200 home fires are started by candles, which also lead to an annual average of 770 injuries and 80 deaths​2​​3​. From 2011 to 2015, U.S. fire departments responded to an average of 8,690 home structure fires caused by candles per year, causing an average of 82 civilian fire deaths, 800 civilian fire injuries, and $295 million in direct property damage annually​4​.
+
+Furthermore, candles caused 3% of reported home fires, 3% of home fire deaths, 6% of home fire injuries, and 5% of the direct property damage in home fires according to another source, which also highlighted that about one-third of home candle fires started in bedrooms​5​. These statistics underscore the importance of using candles responsibly and being aware of the potential risks they pose when left unattended or placed near flammable materials.
 
 ### Data Deck Slides
 
