@@ -13,6 +13,9 @@ This product is designed to serve households, restaurants, spas, and any other s
 
 With a commitment to innovation and customer safety, SafeGlow Solutions aims to reduce fire-related incidents and provide a smarter, safer way to enjoy the ambiance of candlelight. Our blend of sophisticated technology with user-friendly interfaces positions us at the forefront of preventive fire safety in residential and commercial environments.
 
+## Candle Market
+Revenue in the Candles market amounts to US $10.41bn in 2023. The market is expected to grow annually by 2.88% (CAGR 2023-2028).
+
 ## The Problem
 
 - "Annually, an estimated 23,600 fires in residences are caused by candles and result in 1,525 civilian injuries, 165 fatalities, and $390 million in direct property loss." (Topical Fire Research Series Vol. 6, No. 1: Candle Fires in Residential Structures)
