@@ -14,9 +14,14 @@ This product is designed to serve households, restaurants, spas, and any other s
 With a commitment to innovation and customer safety, SafeGlow Solutions aims to reduce fire-related incidents and provide a smarter, safer way to enjoy the ambiance of candlelight. Our blend of sophisticated technology with user-friendly interfaces positions us at the forefront of preventive fire safety in residential and commercial environments.
 
 ## Candle Market
-Revenue in the Candles market amounts to US $10.41bn in 2023. The market is expected to grow annually by 2.88% (CAGR 2023-2028).
 
 <img src="Candle-Industry-Market-Size-in-billion-.webp" width="500">
+
+The global candle market has been experiencing robust growth and is poised to continue on this trajectory. In 2022, the market size was valued at USD 12.88 billion and is projected to grow at a compound annual growth rate (CAGR) of 5.7% from 2023 to 2030【5†source】. This expansion is being fueled by several factors, including the increasing use of candles for aesthetic purposes, particularly among female millennials, and the rising popularity of scented candles as a component of home decor to enhance the overall ambiance【9†source】.
+
+Diverse estimates suggest that by the end of 2031, the market could surpass USD 16.9 billion, growing at a CAGR of 6.5%【8†source】, or reach USD 14.52 billion by 2029, with an even higher CAGR of 8.2%【13†source】. Furthermore, the market is expected to benefit from an increase in disposable income, which contributes to higher spending on home decoration and festivities, thus propelling the demand for candles used in house and office decoration and during celebrations like Diwali and Christmas【12†source】.
+
+These projections also align with broader trends such as the increase in internet access and mobile use in regions like India, which have influenced market growth as part of the country's digital transformation efforts【14†source】. The market dynamics are indicative of a solid demand base that could continue to support the growth of the candle industry in the coming years, reflecting its integration into various aspects of lifestyle and cultural practices.
 
 ## The Problem
 
