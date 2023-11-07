@@ -16,7 +16,7 @@ With a commitment to innovation and customer safety, SafeGlow Solutions aims to 
 ## Candle Market
 Revenue in the Candles market amounts to US $10.41bn in 2023. The market is expected to grow annually by 2.88% (CAGR 2023-2028).
 
-<img src="Candle-Industry-Market-Size-in-billion-.webp">
+<img src="Candle-Industry-Market-Size-in-billion-.webp" width="500">
 
 ## The Problem
 
