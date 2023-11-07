@@ -45,6 +45,7 @@ These projections also align with broader trends such as the increase in interne
 
 ### AlexNet
 
+
 [Alexnet](https://colab.research.google.com/drive/1k2DbZNns2Mcn0VL2yIxZh8zxRvDX_w6M?usp=sharing)
 
 ## Contact Information
