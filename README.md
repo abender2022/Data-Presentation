@@ -13,6 +13,9 @@ This product is designed to serve households, restaurants, spas, and any other s
 
 With a commitment to innovation and customer safety, SafeGlow Solutions aims to reduce fire-related incidents and provide a smarter, safer way to enjoy the ambiance of candlelight. Our blend of sophisticated technology with user-friendly interfaces positions us at the forefront of preventive fire safety in residential and commercial environments.
 
+## How we got started
+
+
 ## Candle Market
 
 <img src="Candle-Industry-Market-Size-in-billion-.webp" width="500">
