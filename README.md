@@ -55,7 +55,7 @@ These projections also align with broader trends such as the increase in interne
 
 #### Loss
 
-
+<img src="W&B Chart 11_14_2023, 4_00_20 PM.png" width="500" >
 
 ### AlexNet
 
