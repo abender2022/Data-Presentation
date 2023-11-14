@@ -51,6 +51,7 @@ These projections also align with broader trends such as the increase in interne
 ### Weights and Biases
 
 #### Accuracy 
+- Got up to about 90%
 
 <img src="W&B Chart 11_14_2023, 3_59_18 PM.png" width="500" >
 
