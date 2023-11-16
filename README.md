@@ -53,11 +53,10 @@ These projections also align with broader trends such as the increase in interne
 #### Accuracy 
 - Got up to about 90%
 
-<img src="W&B Chart 11_14_2023, 3_59_18 PM.png" width="500" >
+<img src="W&B Chart 11_14_2023, 3_59_18 PM.png" width="200" >     <img src="W&B Chart 11_14_2023, 4_00_20 PM.png" width="200" >
 
 #### Loss
-
-<img src="W&B Chart 11_14_2023, 4_00_20 PM.png" width="500" >
+<img src="W&B Chart 11_14_2023, 4_00_20 PM.png" width="200" >
 
 ### AlexNet
 
