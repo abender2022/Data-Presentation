@@ -66,6 +66,10 @@ AlexNet is a type of artificial intelligence program designed to recognize and c
 <img src="alexnet.png" width="500" >
 
 
+<img src="alexnet filters.png" width="500" >
+
+
+
 [Alexnet](https://colab.research.google.com/drive/1k2DbZNns2Mcn0VL2yIxZh8zxRvDX_w6M?usp=sharing)
 
 ## Contact Information
