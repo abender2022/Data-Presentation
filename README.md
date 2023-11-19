@@ -49,7 +49,8 @@ These projections also align with broader trends such as the increase in interne
 [Slides](https://docs.google.com/presentation/d/1CZP8NtDrugxVmTx-0QAKVzlozOlF40R57d0yPbNvsCk/edit?usp=sharing)
 
 ### Weights and Biases
-- Got up to about 90% accuracy 
+- Got up to about 90% accuracy
+- 42% loss
 
 <img src="W&B Chart 11_14_2023, 3_59_18 PM.png" width="500" >     <img src="W&B Chart 11_14_2023, 4_00_20 PM.png" width="500" >
 
@@ -66,6 +67,13 @@ AlexNet is a type of artificial intelligence program designed to recognize and c
 
 
 [Alexnet](https://colab.research.google.com/drive/1k2DbZNns2Mcn0VL2yIxZh8zxRvDX_w6M?usp=sharing)
+
+### Pose
+
+![candle](gif1.gif)
+
+<img src="pose.png" width="500">
+
 
 ## Contact Information
 
