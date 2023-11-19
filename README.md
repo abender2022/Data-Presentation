@@ -59,6 +59,7 @@ AlexNet is a type of artificial intelligence program designed to recognize and c
 
 <img src="alexnet.png" width="500" >
 
+### Feature Map
 
 <img src="alexnet filters.png" width="500" >
 
