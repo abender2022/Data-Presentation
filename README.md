@@ -60,13 +60,13 @@ AlexNet is a type of artificial intelligence program designed to recognize and c
 
 <img src="alexnet.png" width="500" >
 
+
+[Alexnet](https://colab.research.google.com/drive/1k2DbZNns2Mcn0VL2yIxZh8zxRvDX_w6M?usp=sharing)
+
 ### Feature Map
 
 <img src="alexnet filters.png" width="500" >
 
-
-
-[Alexnet](https://colab.research.google.com/drive/1k2DbZNns2Mcn0VL2yIxZh8zxRvDX_w6M?usp=sharing)
 
 ### Pose
 
@@ -77,5 +77,5 @@ AlexNet is a type of artificial intelligence program designed to recognize and c
 
 ## Contact Information
 
-If you have any questions please contact us at _____
+If you have any questions please contact us at contact@safeglowsolutions.com
 
