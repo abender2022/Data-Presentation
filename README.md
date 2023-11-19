@@ -70,7 +70,7 @@ AlexNet is a type of artificial intelligence program designed to recognize and c
 
 ### Pose
 
-![candle](gif1.gif)
+![candle](candle.gif)
 
 <img src="pose.png" width="500">
 
