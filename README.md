@@ -17,6 +17,7 @@ With a commitment to innovation and customer safety, SafeGlow Solutions aims to 
 
 ## How we got started
 
+<hr>
 
 ## Candle Market
 
@@ -55,7 +56,7 @@ These projections also align with broader trends such as the increase in interne
 <hr>
 
 ## Weights and Biases
-- Got up to about 90% accuracy
+- 90% accuracy
 - 42% loss
 
 <img src="W&B Chart 11_14_2023, 3_59_18 PM.png" width="500" >     <img src="W&B Chart 11_14_2023, 4_00_20 PM.png" width="500" >
@@ -85,7 +86,7 @@ When processing color images, AlexNet uses the RGB color model. In this model, e
 
 In summary, AlexNet is a sophisticated system that leverages a combination of advanced computing techniques and mathematical concepts to efficiently process and learn from visual data. Its architecture is designed to dissect, analyze, and interpret images, enabling it to recognize and classify various elements within these images. The use of GPUs, coupled with the efficient handling of data through tensors and matrices, allows AlexNet to perform complex image recognition tasks effectively.
 
-#### Explanation of Terms
+### Explanation of Terms
 
 1. **Python**: This is a type of computer language. Think of it like English or Spanish, but instead of people, it's used to communicate instructions to computers. It's popular because it's easy to learn and can be used for many different things.
 
@@ -113,9 +114,9 @@ In summary, AlexNet is a sophisticated system that leverages a combination of ad
 
 ## Feature Map
 
-<img src="alexnet filters.png" width="500" >
-
 [Custom data filter](https://colab.research.google.com/drive/1t97HXnuHNHHOeTKADFFIA5ycf-JCHq4Z?usp=sharing)
+
+<img src="alexnet filters.png" width="500" >
 
 <hr>
 
