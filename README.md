@@ -62,7 +62,7 @@ AlexNet is a type of artificial intelligence program designed to recognize and c
 
 [Alexnet](https://colab.research.google.com/drive/1k2DbZNns2Mcn0VL2yIxZh8zxRvDX_w6M?usp=sharing)
 
-Explanation of Terms
+#### Explanation of Terms
 
 1. **Python**: This is a type of computer language. Think of it like English or Spanish, but instead of people, it's used to communicate instructions to computers. It's popular because it's easy to learn and can be used for many different things.
 
