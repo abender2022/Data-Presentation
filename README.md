@@ -46,17 +46,23 @@ These projections also align with broader trends such as the increase in interne
 ##### Non Burning Candle
 <img src="candle2.jpeg" width="500" >
 
-### Data Deck Slides
+<hr>
+
+## Data Deck Slides
 
 [Slides](https://docs.google.com/presentation/d/1CZP8NtDrugxVmTx-0QAKVzlozOlF40R57d0yPbNvsCk/edit?usp=sharing)
 
-### Weights and Biases
+<hr>
+
+## Weights and Biases
 - Got up to about 90% accuracy
 - 42% loss
 
 <img src="W&B Chart 11_14_2023, 3_59_18 PM.png" width="500" >     <img src="W&B Chart 11_14_2023, 4_00_20 PM.png" width="500" >
 
-### AlexNet
+<hr>
+
+## AlexNet
 
 AlexNet is a type of artificial intelligence program designed to recognize and classify images. Imagine it like a smart robot that can look at a photo and tell you what's in it—like pointing out a cat, a dog, or a car. It's made up of layers that act like filters, each one learning to recognize different parts of the picture, from simple edges and colors to complex objects. It was a big deal because it worked much better and faster than previous image-recognizing programs, especially because it used special computer graphics cards to speed up the process. 
 
@@ -105,7 +111,7 @@ In summary, AlexNet is a sophisticated system that leverages a combination of ad
 
 <hr>
 
-### Feature Map
+## Feature Map
 
 <img src="alexnet filters.png" width="500" >
 
@@ -113,17 +119,17 @@ In summary, AlexNet is a sophisticated system that leverages a combination of ad
 
 <hr>
 
-### Pose
+## Pose
+
+[Simple Pose Machine](https://colab.research.google.com/drive/1BZBGKpceLqz5gi9phE3OnYrBJQWjCTcZ?usp=sharing)
 
 ![candle](candle.gif)
 
 <img src="pose.png" width="500">
 
-[Simple Pose Machine](https://colab.research.google.com/drive/1BZBGKpceLqz5gi9phE3OnYrBJQWjCTcZ?usp=sharing)
-
 <hr>
 
-### Automatic Mask Generator
+## Automatic Mask Generator
 
 [SAM](https://colab.research.google.com/drive/1Uqh_48-YqvHL_FQPvwSrRHcrT9lIFpD_?usp=sharing)
 
