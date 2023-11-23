@@ -60,8 +60,31 @@ AlexNet is a type of artificial intelligence program designed to recognize and c
 
 <img src="alexnet.png" width="500" >
 
-
 [Alexnet](https://colab.research.google.com/drive/1k2DbZNns2Mcn0VL2yIxZh8zxRvDX_w6M?usp=sharing)
+
+Explanation of Terms
+
+1. **Python**: This is a type of computer language. Think of it like English or Spanish, but instead of people, it's used to communicate instructions to computers. It's popular because it's easy to learn and can be used for many different things.
+
+2. **Colab**: Short for "Colaboratory", this is a free online platform provided by Google. It's like a digital notebook that lets you write Python code, run it, and share it with others. It's especially useful for data science and machine learning projects.
+
+3. **GPU (Graphics Processing Unit)**: This is a part of the computer that's really good at handling visuals, like video games or 3D graphics. But it's also great for AI tasks because it can do a lot of calculations at the same time, making everything much faster.
+
+4. **Filters**: In image processing, filters are like special glasses that a computer uses to see images in different ways. For example, one filter might help the computer focus on the edges in a picture, while another might highlight the colors.
+
+5. **Feature Map**: This is the result you get after applying filters to an image. It's a new version of the image that shows specific features more clearly, like edges, textures, or certain shapes.
+
+6. **Pooling**: In image processing, pooling is a way to simplify the image. Imagine you have a big picture; pooling helps to shrink it down by keeping only the most important parts, so the computer doesn't have to work as hard to understand it.
+
+7. **ReLU (Rectified Linear Unit)**: This is a simple rule that an AI uses to decide whether to pay attention to something. It looks at the information it gets, and if that information is useful, it keeps it; if not, it ignores it.
+
+8. **Tensor**: Think of a tensor like a magic box that can hold numbers in many different layers and dimensions. It's a fancy term used in mathematics and physics, but in AI, it's just a way to organize and process a lot of data at once.
+
+9. **Matrix**: This is like a grid or a table filled with numbers. It's a simple way to organize data so that computers can work with it more easily, especially in calculations involving images or complex equations.
+
+10. **RGB (Red, Green, Blue)**: This is a color model used to create colors on screens like your computer or phone. By mixing different amounts of red, green, and blue light, you can make almost any color.
+
+11. **Pixel**: This is the smallest part of a digital image, like a tiny dot. Each pixel has a color, and when you put lots of pixels together, they make up the picture you see on the screen.
 
 ### Feature Map
 
