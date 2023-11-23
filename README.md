@@ -62,7 +62,22 @@ AlexNet is a type of artificial intelligence program designed to recognize and c
 
 [Alexnet](https://colab.research.google.com/drive/1k2DbZNns2Mcn0VL2yIxZh8zxRvDX_w6M?usp=sharing)
 
-#### Explanation of Terms
+
+**Python and Colab in AlexNet:**
+AlexNet, like many neural networks, is often implemented using Python due to its straightforward syntax and powerful machine learning libraries. Tools like Google Colab provide an accessible platform for running Python code. Colab is particularly useful for AlexNet as it offers an easy interface and access to high-performance hardware such as GPUs, which are crucial for processing the large amounts of data involved in neural network training.
+
+**GPU, Filters, Feature Map, and Pooling:**
+The use of GPUs is integral to AlexNet's design. GPUs accelerate the processing of complex calculations required for training and running neural networks, making them much faster compared to using standard CPUs. In AlexNet, filters are used within its convolutional layers to detect various features in images, like edges or textures. These filters create 'feature maps,' which are transformed versions of the input images highlighting specific features. Following this, AlexNet applies pooling to these feature maps. Pooling reduces the size and complexity of the data, which helps in reducing computational load and in focusing on the most significant features of the images.
+
+**ReLU, Tensor, Matrix:**
+AlexNet employs the ReLU (Rectified Linear Unit) function to introduce non-linearity, which is crucial for learning complex patterns. ReLU works by keeping positive values unchanged while turning negative values to zero, thus deciding which features are important for the network's learning process. The network handles data, including images and feature maps, as tensors. Tensors are multi-dimensional arrays suited for efficiently managing the extensive calculations in neural networks. Additionally, matrix operations are fundamental in AlexNet, particularly in convolutional layers where the processing of images involves numerous matrix calculations.
+
+**RGB and Pixel:**
+When processing color images, AlexNet uses the RGB color model. In this model, each image is represented as three matrices corresponding to the red, green, and blue components. This allows the network to process and analyze the color information within images. At the most basic level, each image AlexNet processes is composed of pixels, the smallest unit of a digital image. The network examines these pixels in relation to their neighbors to identify and learn from patterns in the images.
+
+In summary, AlexNet is a sophisticated system that leverages a combination of advanced computing techniques and mathematical concepts to efficiently process and learn from visual data. Its architecture is designed to dissect, analyze, and interpret images, enabling it to recognize and classify various elements within these images. The use of GPUs, coupled with the efficient handling of data through tensors and matrices, allows AlexNet to perform complex image recognition tasks effectively.
+
+##### Explanation of Terms
 
 1. **Python**: This is a type of computer language. Think of it like English or Spanish, but instead of people, it's used to communicate instructions to computers. It's popular because it's easy to learn and can be used for many different things.
 
