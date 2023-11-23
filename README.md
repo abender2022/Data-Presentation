@@ -13,6 +13,8 @@ This product is designed to serve households, restaurants, spas, and any other s
 
 With a commitment to innovation and customer safety, SafeGlow Solutions aims to reduce fire-related incidents and provide a smarter, safer way to enjoy the ambiance of candlelight. Our blend of sophisticated technology with user-friendly interfaces positions us at the forefront of preventive fire safety in residential and commercial environments.
 
+<hr>
+
 ## How we got started
 
 
@@ -26,11 +28,15 @@ Diverse estimates suggest that by the end of 2031, the market could surpass USD 
 
 These projections also align with broader trends such as the increase in internet access and mobile use in regions like India, which have influenced market growth as part of the country's digital transformation efforts [6](https://www.polarismarketresearch.com/industry-analysis/candle-market). The market dynamics are indicative of a solid demand base that could continue to support the growth of the candle industry in the coming years, reflecting its integration into various aspects of lifestyle and cultural practices.
 
+<hr>
+
 ## The Problem
 
 - Candles are a notable cause of house fires, although they account for a relatively small percentage of the total number of fires. During the period from 2015 to 2019, candles were responsible for 2% of reported home fires, 3% of home fire deaths, 6% of home fire injuries, and 4% of the direct property damage from home fires​ [7](https://www.nfpa.org/education-and-research/home-fire-safety/candles?l=49)​. Each year, an estimated 8,200 home fires are started by candles, which also lead to an annual average of 770 injuries and 80 deaths​ [8](https://candles.org/firesafetycandles/#:~:text=There%E2%80%99s%20a%20special%20beauty%20and,Consumer%20Product%20Safety%20Commission%E2%80%A6),[9](https://blaizencandles.com/candles-and-house-fires/). From 2011 to 2015, U.S. fire departments responded to an average of 8,690 home structure fires caused by candles per year, causing an average of 82 civilian fire deaths, 800 civilian fire injuries, and $295 million in direct property damage annually​ [10](https://www.nfpa.org/-/media/Files/News-and-Research/Fire-statistics-and-reports/Fact-sheets/CandleFactSheet.ashx#:~:text=In%202011%E2%80%932015%2C%20U,of%20the)​. Furthermore, candles caused 3% of reported home fires, 3% of home fire deaths, 6% of home fire injuries, and 5% of the direct property damage in home fires according to another source, which also highlighted that about one-third of home candle fires started in bedrooms​ [11](https://tabernaclerescue.com/safety/candle-fire-safety/#:~:text=Candles%20caused%203,of%20the%20associated%20injuries)​. These statistics underscore the importance of using candles responsibly and being aware of the potential risks they pose when left unattended or placed near flammable materials.
 
 - Can be dangerous when left unattended with animals or small children near or around a burning candle. Risk of being knocked over and causing harm and or damage.
+
+<hr>
 
 ## Example of images our system is trained with
 
@@ -97,12 +103,15 @@ In summary, AlexNet is a sophisticated system that leverages a combination of ad
 
 11. **Pixel**: This is the smallest part of a digital image, like a tiny dot. Each pixel has a color, and when you put lots of pixels together, they make up the picture you see on the screen.
 
+<hr>
+
 ### Feature Map
 
 <img src="alexnet filters.png" width="500" >
 
 [Custom data filter](https://colab.research.google.com/drive/1t97HXnuHNHHOeTKADFFIA5ycf-JCHq4Z?usp=sharing)
 
+<hr>
 
 ### Pose
 
@@ -112,9 +121,13 @@ In summary, AlexNet is a sophisticated system that leverages a combination of ad
 
 [Simple Pose Machine](https://colab.research.google.com/drive/1BZBGKpceLqz5gi9phE3OnYrBJQWjCTcZ?usp=sharing)
 
+<hr>
+
 ### Automatic Mask Generator
 
 [SAM](https://colab.research.google.com/drive/1Uqh_48-YqvHL_FQPvwSrRHcrT9lIFpD_?usp=sharing)
+
+<hr>
 
 ## Contact Information
 
