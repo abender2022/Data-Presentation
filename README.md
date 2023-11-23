@@ -67,6 +67,8 @@ AlexNet is a type of artificial intelligence program designed to recognize and c
 
 <img src="alexnet filters.png" width="500" >
 
+[Custom data filter](https://colab.research.google.com/drive/1t97HXnuHNHHOeTKADFFIA5ycf-JCHq4Z?usp=sharing)
+
 
 ### Pose
 
@@ -74,6 +76,11 @@ AlexNet is a type of artificial intelligence program designed to recognize and c
 
 <img src="pose.png" width="500">
 
+[Simple Pose Machine](https://colab.research.google.com/drive/1BZBGKpceLqz5gi9phE3OnYrBJQWjCTcZ?usp=sharing)
+
+### Automatic Mask Generator
+
+[SAM](https://colab.research.google.com/drive/1Uqh_48-YqvHL_FQPvwSrRHcrT9lIFpD_?usp=sharing)
 
 ## Contact Information
 
