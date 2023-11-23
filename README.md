@@ -134,6 +134,8 @@ In summary, AlexNet is a sophisticated system that leverages a combination of ad
 
 [SAM](https://colab.research.google.com/drive/1Uqh_48-YqvHL_FQPvwSrRHcrT9lIFpD_?usp=sharing)
 
+<img src="candle3.png" width="500">                     <img src="candle4.png" width="500">
+
 <hr>
 
 ## Contact Information
