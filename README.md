@@ -136,6 +136,8 @@ In summary, AlexNet is a sophisticated system that leverages a combination of ad
 
 <img src="candle3.png" width="500">                     <img src="candle4.png" width="500">
 
+The "SamAutomaticMaskGenerator" is a tool used in image processing to create masks, which are used to isolate certain areas of an image. It works by scanning an image in a grid pattern and, at each point, generating multiple masks based on input prompts. These masks are then refined by filtering out lower-quality ones and removing duplicates, a process known as non-maximal suppression. Additionally, the tool can improve the masks by analyzing different sections of the image and cleaning up any imperfections, like small disconnected areas. This method is efficient and sophisticated, making it suitable for creating large image datasets, such as SA-1B, by automatically processing a vast number of images and accurately isolating various features within them.
+
 <hr>
 
 ## Contact Information
