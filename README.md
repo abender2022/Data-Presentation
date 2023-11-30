@@ -124,9 +124,7 @@ In summary, AlexNet is a sophisticated system that leverages a combination of ad
 
 [Simple Pose Machine](https://colab.research.google.com/drive/1BZBGKpceLqz5gi9phE3OnYrBJQWjCTcZ?usp=sharing)
 
-![candle](candle.gif)
-
-<img src="pose.png" width="500">
+![candle](candle.gif)           <img src="pose.png" width="500">
 
 <hr>
 
