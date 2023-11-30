@@ -15,10 +15,6 @@ With a commitment to innovation and customer safety, SafeGlow Solutions aims to 
 
 <hr>
 
-## How we got started
-
-<hr>
-
 ## Candle Market
 
 <img src="Candle-Industry-Market-Size-in-billion-.webp" width="500">            <img src="candle2.webp" width="500"> 
@@ -36,6 +32,28 @@ These projections also align with broader trends such as the increase in interne
 - Candles are a notable cause of house fires, although they account for a relatively small percentage of the total number of fires. During the period from 2015 to 2019, candles were responsible for 2% of reported home fires, 3% of home fire deaths, 6% of home fire injuries, and 4% of the direct property damage from home fires​ [7](https://www.nfpa.org/education-and-research/home-fire-safety/candles?l=49)​. Each year, an estimated 8,200 home fires are started by candles, which also lead to an annual average of 770 injuries and 80 deaths​ [8](https://candles.org/firesafetycandles/#:~:text=There%E2%80%99s%20a%20special%20beauty%20and,Consumer%20Product%20Safety%20Commission%E2%80%A6),[9](https://blaizencandles.com/candles-and-house-fires/). From 2011 to 2015, U.S. fire departments responded to an average of 8,690 home structure fires caused by candles per year, causing an average of 82 civilian fire deaths, 800 civilian fire injuries, and $295 million in direct property damage annually​ [10](https://www.nfpa.org/-/media/Files/News-and-Research/Fire-statistics-and-reports/Fact-sheets/CandleFactSheet.ashx#:~:text=In%202011%E2%80%932015%2C%20U,of%20the)​. Furthermore, candles caused 3% of reported home fires, 3% of home fire deaths, 6% of home fire injuries, and 5% of the direct property damage in home fires according to another source, which also highlighted that about one-third of home candle fires started in bedrooms​ [11](https://tabernaclerescue.com/safety/candle-fire-safety/#:~:text=Candles%20caused%203,of%20the%20associated%20injuries)​. These statistics underscore the importance of using candles responsibly and being aware of the potential risks they pose when left unattended or placed near flammable materials.
 
 - Can be dangerous when left unattended with animals or small children near or around a burning candle. Risk of being knocked over and causing harm and or damage.
+
+<hr>
+
+## Why is this Important?
+
+The importance of a company like SafeGlow Solutions and its CandleSense Monitor system lies in addressing several key areas:
+
+1. **Fire Prevention**: Candles are a common source of house fires. The National Fire Protection Association reports that candles cause thousands of home fires each year, often resulting from candles being left unattended, placed near flammable materials, or knocked over. An automated system that detects when a candle is burning can significantly reduce this risk by alerting users to potential dangers.
+
+2. **Safety in Homes and Businesses**: For households, especially those with children or pets, and for businesses like restaurants or spas where candles contribute to ambiance, SafeGlow Solutions offers an added layer of safety. It helps in ensuring that the use of candles doesn't inadvertently lead to hazardous situations.
+
+3. **Energy Efficiency and Environmental Concerns**: In some cases, candles left burning might contribute to unnecessary energy use or poor air quality. A detection system can help in minimizing these issues by reminding users to extinguish candles when not needed.
+
+4. **Peace of Mind**: Knowing that a system is in place to alert you if a candle has been left burning offers a significant peace of mind, especially for those who may forget to blow out candles before leaving home or going to sleep.
+
+5. **Integration with Smart Home Systems**: The integration with smart home technology means that users can manage and monitor their home environment more efficiently. It represents a step forward in the broader trend towards interconnected, intelligent home safety systems.
+
+6. **Insurance and Liability**: For businesses, having such a system might lower insurance costs or liability risks by demonstrating proactive measures taken to prevent fire hazards.
+
+7. **Technological Innovation**: The development of such technology pushes the boundaries of what smart home systems can do, leading to broader innovations in safety and environmental monitoring within homes and businesses.
+
+In essence, SafeGlow Solutions' approach to fire safety through technology is not just about preventing potential accidents but also about integrating with the modern lifestyle, where convenience, safety, and technological advancement go hand in hand.
 
 <hr>
 
