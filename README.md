@@ -142,6 +142,15 @@ In summary, AlexNet is a sophisticated system that leverages a combination of ad
 
 <hr>
 
+## Volov5
+
+<img src="/content/yolov5/data/images/candle2.jpg" width="500" >
+
+YOLOv5, short for "You Only Look Once version 5," is a state-of-the-art object detection algorithm used in computer vision. Unlike traditional methods that scan an image multiple times, YOLOv5 analyzes the entire image in a single pass, making it extremely fast and efficient. It works by dividing the image into a grid, with each cell responsible for detecting objects within its area. The algorithm predicts bounding boxes and classifies the objects in these boxes, assigning confidence scores to its predictions. This combination of speed and accuracy makes YOLOv5 highly effective for real-time applications, such as surveillance, traffic monitoring, and autonomous vehicles. Its performance is a result of training on large datasets, allowing it to accurately recognize and locate various objects. With each new version, YOLO continues to improve, offering advancements in detection speed and accuracy.
+
+
+<hr>
+
 ## Pose
 
 [Simple Pose Machine](https://colab.research.google.com/drive/1BZBGKpceLqz5gi9phE3OnYrBJQWjCTcZ?usp=sharing)
