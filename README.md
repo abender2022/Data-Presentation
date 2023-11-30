@@ -57,6 +57,10 @@ In essence, SafeGlow Solutions' approach to fire safety through technology is no
 
 <hr>
 
+## How it Works
+
+
+
 ## Example of images our system is trained with
 
 ##### Burning Candle
