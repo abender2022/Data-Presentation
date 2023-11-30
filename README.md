@@ -169,6 +169,24 @@ The "SamAutomaticMaskGenerator" is a tool used in image processing to create mas
 
 <hr>
 
+## How it Works
+
+The technology used by SafeGlow Solutions for our CandleSense Monitor system can be explained using concepts from advanced artificial intelligence and computer vision technologies like YOLO, Pose, AlexNet, etc. Here's how each technology is involved:
+
+1. **AlexNet for Image Recognition**: AlexNet is a type of deep neural network specifically designed for image recognition tasks. It can be used to differentiate between burning and non-burning candles. The system is trained on a large dataset of images, allowing it to recognize the characteristics of a lit candle, such as the flame and the glow. Key features of AlexNet include its use of GPUs for faster processing, filters for extracting features from images, pooling to reduce image size and complexity, and ReLU for non-linearity.
+
+2. **YOLOv5 for Object Detection**: YOLOv5 (You Only Look Once version 5) is an advanced object detection algorithm. In the context of the CandleSense Monitor, it can be used to identify the presence of a candle in various parts of an image and determine whether it's lit. This technology is known for its speed and accuracy, making it suitable for real-time monitoring and detection.
+
+3. **Pose Estimation (Simple Pose Machine)**: Pose estimation technologies like the Simple Pose Machine is utilized to understand the context in which the candle is being used. For instance, it can detect the presence of people or pets near the candle, which might elevate the risk level.
+
+4. **Automatic Mask Generator (SAM)**: The SamAutomaticMaskGenerator can be used for more refined image processing tasks, such as isolating the candle from the rest of the image to focus the analysis or detecting specific parts of the candle like the wick or the flame.
+
+5. **Custom Data Filters and Weights and Biases**: Custom data filters is essential in refining the input data for more accurate detection. The system’s effectiveness is indicated by its reported 94% accuracy and a loss of 0.3758, suggesting a high level of precision in distinguishing between lit and unlit candles.
+
+In summary, the CandleSense Monitor system integrates various aspects of these technologies to create a comprehensive monitoring system. AlexNet and YOLOv5 is central to its image recognition and object detection capabilities, while Pose estimation and SAM can provide additional contextual and detailed analysis. This integration of technologies enables SafeGlow Solutions to offer an advanced solution for fire prevention and home safety.
+
+<hr>
+
 ## Contact Information
 
 If you have any questions please contact us at contact@safeglowsolutions.com
