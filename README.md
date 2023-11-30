@@ -56,10 +56,10 @@ These projections also align with broader trends such as the increase in interne
 <hr>
 
 ## Weights and Biases
-- 90% accuracy
-- 42% loss
+- 94% accuracy
+- 0.3758 loss
 
-<img src="W&B Chart 11_14_2023, 3_59_18 PM.png" width="500" >     <img src="W&B Chart 11_14_2023, 4_00_20 PM.png" width="500" >
+<img src="acc.png" width="500" >     <img src="loss.png" width="500" >
 
 <hr>
 
