@@ -3,18 +3,6 @@
 
 <img src="safeglow3.png" width="500">
 
-
-
-## About us
-
-SafeGlow Solutions is a tech-forward company dedicated to enhancing home safety and energy efficiency. Leveraging advanced sensor technology and innovative software, SafeGlow Solutions specializes in the development of smart environmental monitoring systems that are capable of detecting the presence of a lit candle within a space. Our flagship product, the "CandleSense Monitor," utilizes artificial intelligence to accurately determine whether a candle is burning.
-
-This product is designed to serve households, restaurants, spas, and any other settings where candles are frequently used, providing peace of mind through real-time alerts and automatic safety responses. SafeGlow’s proprietary system can be linked to smartphones and smart home systems, allowing users to receive instant notifications if a candle is left unattended or if it detects anomalies indicating a potential fire hazard. In the event of such detections, CandleSense Monitor can trigger predefined safety protocols, such as alerting the local fire department or activating a home's fire suppression systems.
-
-With a commitment to innovation and customer safety, SafeGlow Solutions aims to reduce fire-related incidents and provide a smarter, safer way to enjoy the ambiance of candlelight. Our blend of sophisticated technology with user-friendly interfaces positions us at the forefront of preventive fire safety in residential and commercial environments.
-
-<hr>
-
 ## Candle Market
 
 <img src="Candle-Industry-Market-Size-in-billion-.webp" width="500">            <img src="candle2.webp" width="500"> 
@@ -32,6 +20,16 @@ These projections also align with broader trends such as the increase in interne
 - Candles are a notable cause of house fires, although they account for a relatively small percentage of the total number of fires. During the period from 2015 to 2019, candles were responsible for 2% of reported home fires, 3% of home fire deaths, 6% of home fire injuries, and 4% of the direct property damage from home fires​ [7](https://www.nfpa.org/education-and-research/home-fire-safety/candles?l=49)​. Each year, an estimated 8,200 home fires are started by candles, which also lead to an annual average of 770 injuries and 80 deaths​ [8](https://candles.org/firesafetycandles/#:~:text=There%E2%80%99s%20a%20special%20beauty%20and,Consumer%20Product%20Safety%20Commission%E2%80%A6),[9](https://blaizencandles.com/candles-and-house-fires/). From 2011 to 2015, U.S. fire departments responded to an average of 8,690 home structure fires caused by candles per year, causing an average of 82 civilian fire deaths, 800 civilian fire injuries, and $295 million in direct property damage annually​ [10](https://www.nfpa.org/-/media/Files/News-and-Research/Fire-statistics-and-reports/Fact-sheets/CandleFactSheet.ashx#:~:text=In%202011%E2%80%932015%2C%20U,of%20the)​. Furthermore, candles caused 3% of reported home fires, 3% of home fire deaths, 6% of home fire injuries, and 5% of the direct property damage in home fires according to another source, which also highlighted that about one-third of home candle fires started in bedrooms​ [11](https://tabernaclerescue.com/safety/candle-fire-safety/#:~:text=Candles%20caused%203,of%20the%20associated%20injuries)​. These statistics underscore the importance of using candles responsibly and being aware of the potential risks they pose when left unattended or placed near flammable materials.
 
 - Can be dangerous when left unattended with animals or small children near or around a burning candle. Risk of being knocked over and causing harm and or damage.
+
+<hr>
+
+## About us
+
+SafeGlow Solutions is a tech-forward company dedicated to enhancing home safety and energy efficiency. Leveraging advanced sensor technology and innovative software, SafeGlow Solutions specializes in the development of smart environmental monitoring systems that are capable of detecting the presence of a lit candle within a space. Our flagship product, the "CandleSense Monitor," utilizes artificial intelligence to accurately determine whether a candle is burning.
+
+This product is designed to serve households, restaurants, spas, and any other settings where candles are frequently used, providing peace of mind through real-time alerts and automatic safety responses. SafeGlow’s proprietary system can be linked to smartphones and smart home systems, allowing users to receive instant notifications if a candle is left unattended or if it detects anomalies indicating a potential fire hazard. In the event of such detections, CandleSense Monitor can trigger predefined safety protocols, such as alerting the local fire department or activating a home's fire suppression systems.
+
+With a commitment to innovation and customer safety, SafeGlow Solutions aims to reduce fire-related incidents and provide a smarter, safer way to enjoy the ambiance of candlelight. Our blend of sophisticated technology with user-friendly interfaces positions us at the forefront of preventive fire safety in residential and commercial environments.
 
 <hr>
 
@@ -60,7 +58,6 @@ In essence, SafeGlow Solutions' approach to fire safety through technology is no
 ## How it Works
 
 
-
 ## Example of images our system is trained with
 
 ##### Burning Candle
@@ -74,14 +71,6 @@ In essence, SafeGlow Solutions' approach to fire safety through technology is no
 ## Data Deck Slides
 
 [Slides](https://docs.google.com/presentation/d/1CZP8NtDrugxVmTx-0QAKVzlozOlF40R57d0yPbNvsCk/edit?usp=sharing)
-
-<hr>
-
-## Weights and Biases
-- 94% accuracy
-- 0.3758 loss
-
-<img src="acc.png" width="500" >     <img src="loss.png" width="500" >
 
 <hr>
 
@@ -132,16 +121,7 @@ In summary, AlexNet is a sophisticated system that leverages a combination of ad
 
 11. **Pixel**: This is the smallest part of a digital image, like a tiny dot. Each pixel has a color, and when you put lots of pixels together, they make up the picture you see on the screen.
 
-<hr>
-
-## Feature Map
-
-[Custom data filter](https://colab.research.google.com/drive/1t97HXnuHNHHOeTKADFFIA5ycf-JCHq4Z?usp=sharing)
-
-<img src="alexnet filters.png" width="500" >
-
-A feature map in the context of machine learning, particularly in convolutional neural networks (CNNs), is essentially a transformed version of the input data. It is generated by applying a filter or kernel to the input data (like an image) through a process called convolution. This operation helps to extract specific features from the input, such as edges, textures, or patterns. The feature map retains spatial information, meaning it shows where in the input image specific features are located. As a CNN processes an image through its layers, multiple feature maps are created at each layer, each representing different aspects or features of the original input, enabling the network to understand and interpret complex patterns in the data.
-
+    
 <hr>
 
 ## Yolov5
@@ -170,6 +150,25 @@ YOLOv5, short for "You Only Look Once version 5," is a state-of-the-art object d
 The "SamAutomaticMaskGenerator" is a tool used in image processing to create masks, which are used to isolate certain areas of an image. It works by scanning an image in a grid pattern and, at each point, generating multiple masks based on input prompts. These masks are then refined by filtering out lower-quality ones and removing duplicates, a process known as non-maximal suppression. Additionally, the tool can improve the masks by analyzing different sections of the image and cleaning up any imperfections, like small disconnected areas. This method is efficient and sophisticated, making it suitable for creating large image datasets, such as SA-1B, by automatically processing a vast number of images and accurately isolating various features within them.
 
 <hr>
+
+## Feature Map
+
+[Custom data filter](https://colab.research.google.com/drive/1t97HXnuHNHHOeTKADFFIA5ycf-JCHq4Z?usp=sharing)
+
+<img src="alexnet filters.png" width="500" >
+
+A feature map in the context of machine learning, particularly in convolutional neural networks (CNNs), is essentially a transformed version of the input data. It is generated by applying a filter or kernel to the input data (like an image) through a process called convolution. This operation helps to extract specific features from the input, such as edges, textures, or patterns. The feature map retains spatial information, meaning it shows where in the input image specific features are located. As a CNN processes an image through its layers, multiple feature maps are created at each layer, each representing different aspects or features of the original input, enabling the network to understand and interpret complex patterns in the data.
+
+<hr>
+
+## Weights and Biases
+- 94% accuracy
+- 0.3758 loss
+
+<img src="acc.png" width="500" >     <img src="loss.png" width="500" >
+
+<hr>
+
 
 ## How it Works
 
