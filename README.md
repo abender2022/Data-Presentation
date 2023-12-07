@@ -186,6 +186,12 @@ In summary, the CandleSense Monitor system integrates various aspects of these t
 
 <hr>
 
+## Overleaf Report
+
+[Report](Safeglow.pdf)
+
+<hr>
+
 ## Contact Information
 
 If you have any questions please contact us at contact@safeglowsolutions.com
