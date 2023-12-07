@@ -72,6 +72,14 @@ In essence, SafeGlow Solutions' approach to fire safety through technology is no
 
 <hr>
 
+## Weights and Biases
+- 94% accuracy
+- 0.3758 loss
+
+<img src="acc.png" width="500" >     <img src="loss.png" width="500" >
+
+<hr>
+
 ## AlexNet
 
 AlexNet is a type of artificial intelligence program designed to recognize and classify images. Imagine it like a smart robot that can look at a photo and tell you what's in it—like pointing out a cat, a dog, or a car. It's made up of layers that act like filters, each one learning to recognize different parts of the picture, from simple edges and colors to complex objects. It was a big deal because it worked much better and faster than previous image-recognizing programs, especially because it used special computer graphics cards to speed up the process. 
@@ -132,15 +140,6 @@ YOLOv5, short for "You Only Look Once version 5," is a state-of-the-art object d
 
 
 <hr>
-
-## Weights and Biases
-- 94% accuracy
-- 0.3758 loss
-
-<img src="acc.png" width="500" >     <img src="loss.png" width="500" >
-
-<hr>
-
 
 ## Pose
 
