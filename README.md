@@ -72,14 +72,6 @@ In essence, SafeGlow Solutions' approach to fire safety through technology is no
 
 <hr>
 
-## Weights and Biases
-- 94% accuracy
-- 0.3758 loss
-
-<img src="acc.png" width="500" >     <img src="loss.png" width="500" >
-
-<hr>
-
 ## AlexNet
 
 AlexNet is a type of artificial intelligence program designed to recognize and classify images. Imagine it like a smart robot that can look at a photo and tell you what's in it—like pointing out a cat, a dog, or a car. It's made up of layers that act like filters, each one learning to recognize different parts of the picture, from simple edges and colors to complex objects. It was a big deal because it worked much better and faster than previous image-recognizing programs, especially because it used special computer graphics cards to speed up the process. 
@@ -88,6 +80,13 @@ AlexNet is a type of artificial intelligence program designed to recognize and c
 
 [Alexnet](https://colab.research.google.com/drive/1k2DbZNns2Mcn0VL2yIxZh8zxRvDX_w6M?usp=sharing)
 
+## Weights and Biases
+- 94% accuracy
+- 0.3758 loss
+
+<img src="acc.png" width="500" >     <img src="loss.png" width="500" >
+
+<hr>
 
 **Python and Colab in AlexNet:**
 AlexNet, like many neural networks, is often implemented using Python due to its straightforward syntax and powerful machine learning libraries. Tools like Google Colab provide an accessible platform for running Python code. Colab is particularly useful for AlexNet as it offers an easy interface and access to high-performance hardware such as GPUs, which are crucial for processing the large amounts of data involved in neural network training.
